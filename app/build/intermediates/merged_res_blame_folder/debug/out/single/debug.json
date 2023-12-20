@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\Naim\\Downloads\\yuWEHaPNRQalhB2jzcUGbA_755f436b073145ffa0afc235f3446568_m5-birthday-assignment\\m5-birthday\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Naim\\Downloads\\yuWEHaPNRQalhB2jzcUGbA_755f436b073145ffa0afc235f3446568_m5-birthday-assignment\\m5-birthday\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Naim\\Downloads\\yuWEHaPNRQalhB2jzcUGbA_755f436b073145ffa0afc235f3446568_m5-birthday-assignment\\m5-birthday\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Naim\\Downloads\\yuWEHaPNRQalhB2jzcUGbA_755f436b073145ffa0afc235f3446568_m5-birthday-assignment\\m5-birthday\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Naim\\Downloads\\yuWEHaPNRQalhB2jzcUGbA_755f436b073145ffa0afc235f3446568_m5-birthday-assignment\\m5-birthday\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Naim\\Downloads\\yuWEHaPNRQalhB2jzcUGbA_755f436b073145ffa0afc235f3446568_m5-birthday-assignment\\m5-birthday\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Naim\\Downloads\\yuWEHaPNRQalhB2jzcUGbA_755f436b073145ffa0afc235f3446568_m5-birthday-assignment\\m5-birthday\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Naim\\Downloads\\yuWEHaPNRQalhB2jzcUGbA_755f436b073145ffa0afc235f3446568_m5-birthday-assignment\\m5-birthday\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Naim\\Downloads\\yuWEHaPNRQalhB2jzcUGbA_755f436b073145ffa0afc235f3446568_m5-birthday-assignment\\m5-birthday\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Naim\\Downloads\\yuWEHaPNRQalhB2jzcUGbA_755f436b073145ffa0afc235f3446568_m5-birthday-assignment\\m5-birthday\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Naim\\Downloads\\yuWEHaPNRQalhB2jzcUGbA_755f436b073145ffa0afc235f3446568_m5-birthday-assignment\\m5-birthday\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Naim\\Downloads\\yuWEHaPNRQalhB2jzcUGbA_755f436b073145ffa0afc235f3446568_m5-birthday-assignment\\m5-birthday\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    }
+]
